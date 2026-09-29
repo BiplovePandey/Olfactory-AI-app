@@ -1,0 +1,6 @@
+{
+  "name": "Olfactory AI",
+  "description": "Luxury Fragrance Layering Atelier powered by Olfactory AI with 8-dimensional vector harmony and Indian heritage scent compounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
